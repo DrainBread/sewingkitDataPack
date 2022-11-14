@@ -1,0 +1,37 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "tag": "forge:igonts/steel"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "magistuarmory:leather_strip"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "sewingkit:leather_sheet"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "magistuarmory:platemail_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

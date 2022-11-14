@@ -1,0 +1,25 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "iceandfire:dragonscales_gray"
+        },
+        "count": 6
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "iceandfire:armor_gray_chestplate"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

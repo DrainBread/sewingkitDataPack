@@ -1,0 +1,19 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "ars_nouveau:end_fiber"
+        },
+        "count": 8
+      }
+    ],
+    "result": {
+      "item": "ars_nouveau:archmage_robes"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

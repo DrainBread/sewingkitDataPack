@@ -1,0 +1,37 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "sewingkit:leather_sheet"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "magistuarmory:woolen_fabric"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "magistuarmory:leather_strip"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "magistuarmory:gambeson_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

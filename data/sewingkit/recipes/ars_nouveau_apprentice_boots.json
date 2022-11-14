@@ -1,0 +1,19 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "ars_nouveau:blaze_fiber"
+        },
+        "count": 4
+      }
+    ],
+    "result": {
+      "item": "ars_nouveau:apprentice_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

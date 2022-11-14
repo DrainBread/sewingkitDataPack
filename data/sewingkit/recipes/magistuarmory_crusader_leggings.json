@@ -1,0 +1,32 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "magistuarmory:steel_chainmail"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "sewingkit:leather_sheet"
+        },
+        "count": 4
+      }
+      ,
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "magistuarmory:crusader_leggings"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

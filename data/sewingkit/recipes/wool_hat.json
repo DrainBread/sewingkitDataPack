@@ -1,0 +1,26 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "ingredient": {
+        "tag": "forge:wools"
+      },
+      "count": 3
+    },
+    {
+      "ingredient": {
+        "tag": "forge:string"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "survive:wool_hat",
+    "count": 1
+  },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewing_needle",
+    "tool_level": 1
+  }
+}

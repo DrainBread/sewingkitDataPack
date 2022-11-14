@@ -1,0 +1,31 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "minecraft:leather_boots"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "item": "survive:wool_boots"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "iceandfire:sheep_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 1
+    }
+}

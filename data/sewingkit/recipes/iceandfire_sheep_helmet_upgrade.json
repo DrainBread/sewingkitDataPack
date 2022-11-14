@@ -1,0 +1,31 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "minecraft:leather_helmet"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "item": "survive:wool_hat"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "iceandfire:sheep_helmet"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "tag": "forge:wools/blue"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "tag": "minecraft:wooden_slabs"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "create:blue_seat"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 1
+    }
+  }

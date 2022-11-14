@@ -1,0 +1,31 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "iceandfire:sea_serpent_scales_green"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "iceandfire:shiny_scales"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "iceandfire:tide_green_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

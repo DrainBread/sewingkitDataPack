@@ -1,0 +1,25 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "arsomega:arcane_cloth"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "item": "ars_nouveau:archmage_robes"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "arsomega:arcane_chestplate"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 3
+    }
+}

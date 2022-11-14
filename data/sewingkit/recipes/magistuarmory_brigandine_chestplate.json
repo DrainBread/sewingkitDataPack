@@ -1,0 +1,31 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "tag": "forge:plates/steel"
+        },
+        "count": 2
+      },
+      {
+        "ingredient": {
+          "item": "sewingkit:leather_sheet"
+        },
+        "count": 4
+      },
+      {
+        "ingredient": {
+          "tag": "forge:string"
+        },
+        "count": 2
+      }
+    ],
+    "result": {
+      "item": "magistuarmory:brigandine_chestplate"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 2
+    }
+}

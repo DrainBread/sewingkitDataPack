@@ -1,0 +1,25 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "item": "arsomega:enchanters_wool"
+        },
+        "count": 1
+      },
+      {
+        "ingredient": {
+          "item": "ars_nouveau:archmage_boots"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "arsomega:defense_boots"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 3
+    }
+}

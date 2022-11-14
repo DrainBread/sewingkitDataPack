@@ -1,0 +1,19 @@
+{
+    "type": "sewingkit:sewing",
+    "materials": [
+      {
+        "ingredient": {
+          "tag": "forge:wools"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "magistuarmory:woolen_fabric"
+    },
+    "tool": {
+      "type": "sewingkit:tool_ingredient",
+      "tool_type": "sewing_needle",
+      "tool_level": 1
+    }
+  }
